@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sayan1das.github.io/Memory-Game/",
+  "homepage": "https://sayandas.in",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
